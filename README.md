@@ -24,8 +24,8 @@
   - [My Discord](https://discord.com/users/351488690029199360)
   - [LeetCode Profile](https://leetcode.com/u/Serquand/)
 - 📚 My stacks:
-  - **Frontend**: `Nuxt`, `VueJS`, `ReactJS`, `Next`, `Angular (incoming)`
-  - **Backend**: `NodeJS`, `Express`, `NestJS`, `Django`, `Spring Boot (incoming)`,
+  - **Frontend**: `Nuxt`, `VueJS`, `ReactJS`, `Next`, `Angular`
+  - **Backend**: `NodeJS`, `Express`, `NestJS`, `Django`, `Spring Boot`,
   - **Mobile**: `React Native`
   - **Desktop**: `Electron`
   - **Database**: `MongoDB`, `Redis`, `ElasticSearch`, `PostgreSQL`, `MySQL`
