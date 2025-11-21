@@ -30,3 +30,7 @@
   - **Desktop**: `Electron`
   - **Database**: `MongoDB`, `Redis`, `ElasticSearch`, `PostgreSQL`, `MySQL`
   - **DevOps**: `Docker`, `Kubernetes`, `CI/CD` (`Jenkins`, `GitLab`, `GitHub Actions`)
+
+## <center> ⭐ GitHub Stats </center>
+<img src="https://github-readme-stats-sakujes.vercel.app/api?username=Serquand&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark&hide=prs,contribs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Serquand&theme=dark&hide_border=true" />
