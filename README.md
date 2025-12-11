@@ -23,6 +23,7 @@
   - [My email (e.vincent@serquand.com)](mailto:e.vincent@serquand.com)
   - [My Discord](https://discord.com/users/351488690029199360)
   - [LeetCode Profile](https://leetcode.com/u/Serquand/)
+  - [RootMe Profile](https://www.root-me.org/Serkan-579341)
 - 📚 My stacks:
   - **Frontend**: `Nuxt`, `VueJS`, `ReactJS`, `Next`, `Angular`
   - **Backend**: `NodeJS`, `Express`, `NestJS`, `Django`, `Spring Boot`,
